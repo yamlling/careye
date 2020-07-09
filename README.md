@@ -6,7 +6,7 @@
 
 ## 技术栈
 
-> vue2 + vuex + vue-router 
+> vue2 + express + mysql
 
 
 ## 项目运行
