@@ -17,7 +17,10 @@
 # 安装依赖
 npm install
 
-# 开启本地服务器
+# 启动后端服务
+npm run server
+
+# 启动前端服务
 npm run dev
 
 # 发布环境
