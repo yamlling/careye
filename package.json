@@ -18,7 +18,7 @@
     "express": "~4.15.2",
     "jade": "~1.11.0",
     "moment": "^2.20.1",
-    "morgan": "~1.8.1",
+    "morgan": "~1.10.0",
     "multer": "~1.4.2",
     "serve-favicon": "~2.4.2",
     "vant": "^2.6.1",
